@@ -62,7 +62,7 @@ The dataset comprises several key columns that provide comprehensive information
 
 - A comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib provides a flexible way to produce high-quality plots and charts. It is widely used for visualizing data distributions, trends, and relationships, helping to communicate insights effectively through graphical representations.
 
-  4. __Seaborn__ :
+4. __Seaborn__ :
  
   - A statistical data visualization library built on top of Matplotlib. Seaborn enhances the creation of complex visualizations by providing a high-level interface for drawing attractive and informative statistical graphics. It simplifies the process of visualizing relationships between variables and allows for easy customization of visual styles.
  
